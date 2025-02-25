@@ -1,6 +1,6 @@
-# Contributing to CodeSafe
+# Contributing to CRSD
 
-Thank you for considering contributing to **CodeSafe**! Contributions, whether they are bug fixes, new features, or improvements to the documentation, are always welcome. Before contributing, please read the following guidelines to ensure smooth collaboration.
+Thank you for considering contributing to **CRSD**! Contributions, whether they are bug fixes, new features, or improvements to the documentation, are always welcome. Before contributing, please read the following guidelines to ensure smooth collaboration.
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ Thank you for considering contributing to **CodeSafe**! Contributions, whether t
 ## How to Contribute
 
 1. **Report Issues**  
-   Use the [GitHub Issues page](https://github.com/Infinitode/CodeSafe/issues) to report bugs or suggest features. Please include:
+   Use the [GitHub Issues page](https://github.com/Infinitode/CRSD/issues) to report bugs or suggest features. Please include:
    - A clear description of the issue or suggestion.
    - Steps to reproduce (for bugs).
 
@@ -44,6 +44,6 @@ To maintain a positive and collaborative community, we ask that all contributors
    Offer helpful and actionable suggestions during code reviews.
 
 3. **Follow Licensing Requirements**  
-   Ensure that any derivative works comply with the [license](https://github.com/infinitode/codesafe/blob/main/LICENSE).
+   Ensure that any derivative works comply with the [license](https://github.com/infinitode/CRSD/blob/main/LICENSE).
 
-By contributing, you agree to abide by these guidelines and this project's [license](https://github.com/infinitode/codesafe/blob/main/LICENSE). Thank you for helping make **CodeSafe** better!
+By contributing, you agree to abide by these guidelines and this project's [license](https://github.com/infinitode/CRSD/blob/main/LICENSE). Thank you for helping make **CRSD** better!
