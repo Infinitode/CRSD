@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **CRSD (Customer Review Sentiment Dataset)** is a synthetic dataset designed for sentiment analysis tasks. It consists of approximately **6,500** customer reviews, each labeled with a sentiment category: **positive**, **neutral**, or **negative**. These reviews were generated using a variety of AI language models to ensure diversity and realism in language style and content. The inclusion of multiple models enhances the dataset's robustness and provides insights into the performance of different generative AI systems.
+The **CRSD (Customer Review Sentiment Dataset)** is a synthetic dataset designed for sentiment analysis tasks. It consists of approximately **8,200** customer reviews, each labeled with a sentiment category: **positive**, **neutral**, or **negative**. These reviews were generated using a variety of AI language models to ensure diversity and realism in language style and content. The inclusion of multiple models enhances the dataset's robustness and provides insights into the performance of different generative AI systems.
 
 > [!TIP]
 > This dataset is also publicly available on Hugging Face: https://huggingface.co/datasets/InfinitodeLTD/CRSD
@@ -36,6 +36,7 @@ The reviews were synthetically generated using a selection of advanced AI langua
 - **OpenAI's GPT-4o-Mini**
 - **Meta's Llama 3-8b-T**
 - **Mistral AI's Mixtral 8x7b**
+- **OpenAI's GPT-5-Mini**
 
 Prompts were crafted to elicit reviews of varying sentiments. For example:
 
@@ -54,6 +55,7 @@ The generated reviews were then labeled accordingly, and the model used for gene
   - GPT-4o-Mini
   - Llama 3-8b-T
   - Mixtral 8x7b
+  - GPT-5-Mini
 
 > [!NOTE]
 > Models were not used equally to generate equal amounts of reviews. During inference, most models struggle to keep track of the amount of reviews already generated.
