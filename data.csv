@@ -4047,7 +4047,6 @@ review,model,sentiment
 "The brand's marketing is a bit aggressive, but effective.",Gemini-2.0-Flash-Lite,neutral
 "The venue had a good security system, which made me feel safe.",Gemini-2.0-Flash-Lite,neutral
 "I have a general feeling of being excited for the weekend.",Gemini-2.0-Flash-Lite,neutral
-review,sentiment
 "This product is amazing!",GPT-4o-Mini,positive
 "I love how well it works.",GPT-4o-Mini,positive
 "Best purchase I've made this year.",GPT-4o-Mini,positive
@@ -5555,7 +5554,6 @@ review,sentiment
 "The 'Spooky Halloween Party' had a few fun decorations, but overall it felt lackluster.",GPT-4o-Mini,negative
 "The 'Book Launch' was dull; I expected more excitement from the author’s talk.",GPT-4o-Mini,negative
 "The 'Trivia Night' was frustrating; the questions were too easy and not engaging.",GPT-4o-Mini,negative
-review,sentiment
 "I recently visited the new Apple Store in downtown LA and was impressed by the sleek design. The staff was friendly and helpful, answering all my questions about the latest iPhone models.",Llama-3-8b-T,neutral
 "I watched the new Marvel movie, Avengers: Endgame, and it was a thrilling ride. The special effects were mind-blowing and the plot was engaging.",Llama-3-8b-T,neutral
 "I attended the Coachella music festival and had an amazing time. The lineup was incredible, with performances by Ariana Grande and Billie Eilish.",Llama-3-8b-T,neutral
@@ -6312,7 +6310,6 @@ review,sentiment
 "The new restaurant in town has the best lunch I've ever had - the food is so delicious and the service is so friendly. Highly recommend",Llama-3-8b-T,positive
 "I just got the most amazing new pair of shoes - they're so comfortable and stylish. Perfect for a night out",Llama-3-8b-T,positive
 "The new movie I watched was so inspiring - the story is so powerful and the acting is so great. Highly recommend",Llama-3-8b-T,positive
-review,sentiment
 "I can't believe I spent money on this piece of junk toy. It broke after just a few minutes of play.",Mixtral-8x7b,negative
 "The restaurant we went to last night was a disaster. The service was slow, the food was cold, and the prices were outrageous.",Mixtral-8x7b,negative
 "I'm so annoyed with this brand. They promised to fix the issue with my product, but it's still not working.",Mixtral-8x7b,negative
